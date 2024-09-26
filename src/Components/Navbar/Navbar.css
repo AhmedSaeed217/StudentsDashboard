@@ -1,0 +1,46 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    height: 60px;
+}
+
+nav .left-nav svg{
+    font-size: 30px;
+    color: #C4C4C4;
+    cursor: pointer;
+}
+
+nav .right-nav{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.right-nav .search-box{
+    position: relative;
+}
+
+.right-nav .search-box input{
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border: 1px solid #C4C4C4;
+    border-radius: 8px;
+    font-size: 16px;
+}
+.right-nav .search-box svg{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    color: #C4C4C4;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.right-nav .bell svg{
+    color: #C4C4C4;
+    font-size: 22px;
+    cursor: pointer;
+}

@@ -1,0 +1,53 @@
+
+.student-details-header{
+    padding: 15px 25px;
+    background-color: #e5e5e5;
+    margin-bottom: 25px;
+    height: 100px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.student-details-header h4{
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.student-details-content{
+    width: 90%;
+    margin: 0 auto;
+    padding: 15px 25px;
+    box-shadow: 0 0 10px #e5e5e5;
+}
+.student-details-content .top{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 30px;
+}
+
+.student-details-content .top img{
+    border-radius: 50%;
+}
+
+.student-details-content .top .name{
+    font-size: 23px;
+    font-weight: bold;
+    color: #6C6C6C;
+    letter-spacing: 1px;
+}
+.student-details-content .bottom{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.student-details-content .bottom span{
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
+.student-details-content .bottom p{
+    color: #6C6C6C;
+    font-size: 18px;
+}

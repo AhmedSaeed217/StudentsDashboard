@@ -1,0 +1,95 @@
+.students{
+   height: 100%;
+    padding: 10px 20px;
+    width: 100%;
+    background-color: #e5e5e5;
+}
+
+.students .students-header{
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.students .students-header button{
+    text-transform: uppercase;
+    border: none;
+    padding: 10px 15px;
+    background-color: #FEAF00;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.search-student{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.search-student input{
+    width: 500px;
+    padding: 10px 15px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+}
+
+
+.students hr{
+    background-color: #fff;
+    height: 1.5px;
+    margin-bottom: 20px;
+    border:none;
+}
+
+.students table{
+    width: 100%;
+}
+
+.students table thead th {
+    padding: 10px 0;
+}
+
+.students table tbody{
+    /* background-color: #fff; */
+    text-align: center;
+    
+}
+.students table tbody tr { 
+ background-color: #fff;
+}
+.students table tbody tr td{
+    padding: 5px 10px;
+}
+.students table tbody img{
+    width: 45px;
+    border-radius: 50%;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.students table tbody button{
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+}
+
+.students table tbody .delete{
+   background-color: red; 
+}
+
+.students table tbody .update{
+    background-color: green;
+}
+
+.swal2-confirm{
+    background-color: #FEAF00 !important;
+    color: #fff !important;
+}

@@ -1,0 +1,72 @@
+.home{
+    padding: 10px 20px;
+}
+
+.home-content{
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.home-content .box{
+    padding:20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+    width: 40%;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    cursor: pointer;
+}
+
+.home-content .box svg{
+    font-size: 30px;
+}
+.home-content .box span{
+    color: #6C6C6C;
+}
+
+.home-content .box p{
+ font-size: 22px;
+ font-weight: bold;
+ text-align: right;
+}
+
+.home-content .students{
+    background-color: #F0F9FF;
+}
+
+.home-content .students svg{
+ color: #74C1ED;
+}
+
+.home-content .courses{
+    background-color: #FEF6FB;
+}
+
+.home-content .courses svg{
+ color: #EE95C5;
+}
+.home-content .payments{
+    background-color: #FEFBEC;
+}
+
+.home-content .payments svg{
+ color: #F6C762;
+}
+.home-content .users{
+    background:linear-gradient(to right,#FEAF00,#F6C762);
+}
+
+.home-content .users span{
+    color: #fff;
+}
+
+.home-content .users svg{
+ color: #fff;
+}

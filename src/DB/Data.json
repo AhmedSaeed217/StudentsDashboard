@@ -1,0 +1,103 @@
+{
+  "students": [
+    {
+      "name": " John Doe",
+      "email": "johndoe@example.com",
+      "phone": "555-1234",
+      "enrollNumber": "ABC123",
+      "admissionDate": "2023-05-15",
+      "img": "https://randomuser.me/api/portraits/men/1.jpg",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone": "555-5678",
+      "enrollNumber": "XYZ456",
+      "admissionDate": "2023-06-20",
+      "img": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Michael Johnson",
+      "email": "michaeljohnson@example.com",
+      "phone": "555-9012",
+      "enrollNumber": "DEF789",
+      "admissionDate": "2023-07-01",
+      "img": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "email": "emilydavis@example.com",
+      "phone": "555-3456",
+      "enrollNumber": "GHI012",
+      "admissionDate": "2023-08-10",
+      "img": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "id": "5",
+      "name": "David Brown",
+      "email": "davidbrown@example.com",
+      "phone": "555-7890",
+      "enrollNumber": "JKL345",
+      "admissionDate": "2023-09-05",
+      "img": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Sarah Lee",
+      "email": "sarahlee@example.com",
+      "phone": "555-2222",
+      "enrollNumber": "MNO678",
+      "admissionDate": "2023-10-01",
+      "img": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Tom Wilson",
+      "email": "tomwilson@example.com",
+      "phone": "555-3333",
+      "enrollNumber": "PQR901",
+      "admissionDate": "2023-11-15",
+      "img": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Jessica Thompson",
+      "email": "jessicathompson@example.com",
+      "phone": "555-4444",
+      "enrollNumber": "STU234",
+      "admissionDate": "2023-12-01",
+      "img": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Robert Anderson",
+      "email": "robertanderson@example.com",
+      "phone": "555-5555",
+      "enrollNumber": "VWX567",
+      "admissionDate": "2024-01-10",
+      "img": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Olivia Martinez",
+      "email": "oliviamartinez@example.com",
+      "phone": "555-6666",
+      "enrollNumber": "YZA890",
+      "admissionDate": "2024-02-15",
+      "img": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+      "id": "c9f8",
+      "name": "Karthik Kumar",
+      "email": "Karthik@test.com",
+      "phone": "5213687",
+      "enrollNumber": "E45698",
+      "admissionDate": "2024-08-29",
+      "img": "https://via.placeholder.com/150"
+    }
+  ]
+}

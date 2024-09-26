@@ -1,0 +1,15 @@
+.App{
+  display: flex;
+  /* gap: 5px; */
+}
+
+.App .side{
+  width: 250px;
+}
+
+.App .content{
+  width: calc(100% - 250px);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
